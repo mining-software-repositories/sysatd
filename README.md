@@ -67,6 +67,8 @@ Dataframes with Code Churn
 
 Dataframes with cyclomatic complexity, code churn and ccnXchurn (complexity * code churn) 
 
+Some visualization tests can be checked in [https://scientific-visualization.github.io/hadoopcodeflower](https://scientific-visualization.github.io/hadoopcodeflower)
+
 Obs: papers usados para inferir o impacto de esforço de manutenção usando a Complexidade Ciclomática e Code Churn:
 
 1. Nagappan, Nachiappan, and Thomas Ball. "Use of relative code churn measures to predict system defect density." Proceedings of the 27th international conference on Software engineering. 2005.
