@@ -65,7 +65,7 @@ Dataframes with Cyclomatic Complexity
 
 Dataframes with Code Churn
 
-Dataframes with cyclomatic complexity, code churn and ccnXchurn
+Dataframes with cyclomatic complexity, code churn and ccnXchurn (complexity * code churn) 
 
 Obs: papers usados para inferir o impacto de esforço de manutenção usando a Complexidade Ciclomática e Code Churn:
 
